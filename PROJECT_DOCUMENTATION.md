@@ -747,8 +747,8 @@ This project demonstrates my ability to conceive, architect, and execute a compl
 
 **Project Repository**: [GitHub - AI Career Coach](https://github.com/Sameeksha200416/AI-Career-Coach)  
 **Live Demo**: [ASPIRE AI Platform](https://ai-career-coach-seven-inky.vercel.app/)  
-**Developer**: Sameeksha - Full-Stack Developer & AI Enthusiast  
-**Last Updated**: January 2025
+**Developer**: Amit Thakur - Full-Stack Developer & AI Enthusiast  
+**Last Updated**: March 2026
 
 ---
 
