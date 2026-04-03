@@ -1,5 +1,3 @@
-# 🚀 ASPIRE AI - Smart Career Coach
-
 <div align="center">
   <img src="public/logo1.png" alt="ASPIRE AI Logo" width="200"/>
   
@@ -147,7 +145,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Amitthakur910/Aspire_AI-Smart_Career_Coach.git
-   cd Aspire_AI-Smart_Career_Coach/my-app
+   cd Ai-Career-Coach
    ```
 
 2. **Install dependencies**
@@ -376,7 +374,7 @@ We welcome contributions from the community! Here's how you can help:
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amitthakur910)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-thakur-in14356)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sameeksha-portfolio.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://amitporfolio.netlify.app/)
 </div>
 
 ---
@@ -399,9 +397,8 @@ If you find ASPIRE AI helpful, please consider:
   <a href="https://aspire-ai-smart-career-coach-a3klmoutb.vercel.app/">
     <img src="https://img.shields.io/badge/Try%20ASPIRE AI%20Now-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Try ASPIRE AI"/>
   </a>
-  
-  <br><br>
-  
+
+  <br>
   <p><em>Made with ❤️ and lots of ☕ Amit Thakur</em></p>
   <p><strong>© 2026 ASPIRE AI - AI Career Coach. All rights reserved.</strong></p>
 </div>
