@@ -1,4 +1,4 @@
-# ASPIRE AI - AI Career Coach
+# ASPIRE AI - Smart Career Coach
 # Project Documentation
 
 ## Executive Summary
@@ -745,9 +745,9 @@ This project demonstrates my ability to conceive, architect, and execute a compl
 
 ---
 
-**Project Repository**: [GitHub - AI Career Coach](https://github.com/Sameeksha200416/AI-Career-Coach)  
-**Live Demo**: [ASPIRE AI Platform](https://ai-career-coach-seven-inky.vercel.app/)  
-**Developer**: Amit Thakur - Full-Stack Developer & AI Enthusiast  
+**Project Repository**: [GitHub - Aspire AI](https://github.com/Amitthakur910/Aspire_AI-Smart_Career_Coach)  
+**Live Demo**: [ASPIRE AI Platform](https://aspire-ai-smart-career-coach-a3klmoutb.vercel.app/)  
+**Developer**: Amit Thakur - Full-Stack Developer 
 **Last Updated**: March 2026
 
 ---

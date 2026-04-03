@@ -1,7 +1,7 @@
-# 🚀 ASPIRE AI - AI Career Coach
+# 🚀 ASPIRE AI - Smart Career Coach
 
 <div align="center">
-  <img src="public/logo.png" alt="ASPIRE AI Logo" width="200"/>
+  <img src="public/logo1.png" alt="ASPIRE AI Logo" width="200"/>
   
   ### Your Smart Path to a Dream Career 🎯
   
@@ -15,7 +15,7 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![Prisma](https://img.shields.io/badge/Prisma-6.11.1-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
-  🔗 [**Live Demo**](https://ai-career-coach-seven-inky.vercel.app/)
+  🔗 [**Live Demo**](https://aspire-ai-smart-career-coach-a3klmoutb.vercel.app/)
 </div>
 
 ---
@@ -29,7 +29,6 @@
 - [📱 Pages & Components](#-pages--components)
 - [🤖 AI Features](#-ai-features)
 - [🔧 Configuration](#-configuration)
-- [📸 Screenshots](#-screenshots)
 - [🤝 Contributing](#-contributing)
 - [👩‍💻 Developer](#-developer)
 
@@ -147,8 +146,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sameeksha200416/Ai-Career-Coach.git
-   cd Ai-Career-Coach/my-app
+   git clone https://github.com/Amitthakur910/Aspire_AI-Smart_Career_Coach.git
+   cd Aspire_AI-Smart_Career_Coach/my-app
    ```
 
 2. **Install dependencies**
@@ -325,30 +324,6 @@ CMD ["npm", "start"]
 
 ---
 
-## 📸 Application Preview
-
-<div align="center">
-  <h3>🏠 Landing Page</h3>
-  <img src="docs/images/landing-hero.png" alt="Landing Page" width="80%"/>
-</div>
-
-<div align="center">
-  <h3>📊 Dashboard Analytics</h3>
-  <img src="docs/images/dashboard-analytics.png" alt="Dashboard" width="80%"/>
-</div>
-
-<div align="center">
-  <h3>📄 Resume Builder</h3>
-  <img src="docs/images/resume-builder.png" alt="Resume Builder" width="80%"/>
-</div>
-
-<div align="center">
-  <h3>🎯 Interview Preparation</h3>
-  <img src="docs/images/interview-prep.png" alt="Interview Prep" width="80%"/>
-</div>
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
@@ -377,10 +352,6 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for complete details.
-
 ---
 
 ## 🙏 Acknowledgments
@@ -396,15 +367,15 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👩‍💻 Meet the Developer
 
 <div align="center">
-  <img src="https://github.com/Sameeksha200416.png" alt="Sameeksha" width="120" style="border-radius: 50%;"/>
+  <img src="https://github.com/Amitthakur910.png" alt="Amit" width="120" style="border-radius: 50%;"/>
   
-  ### **Sameeksha**
-  *Full-Stack Developer & AI Enthusiast*
+  ### **Amit Thakur**
+  *Full-Stack Developer*
   
   <p>Passionate about building innovative solutions that help people achieve their career goals through the power of AI and modern web technologies.</p>
   
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sameeksha200416)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameeksha)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amitthakur910)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-thakur-in14356)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sameeksha-portfolio.vercel.app)
 </div>
 
@@ -418,7 +389,6 @@ If you find ASPIRE AI helpful, please consider:
 - 🐛 **Reporting** bugs or issues
 - 💡 **Suggesting** new features
 - 📢 **Sharing** with your network
-- ☕ **Buying me a coffee** [here](https://buymeacoffee.com/sameeksha)
 
 ---
 
@@ -426,12 +396,12 @@ If you find ASPIRE AI helpful, please consider:
   <h3>🚀 Ready to transform your career journey?</h3>
   <p><strong>Start your AI-powered career development today!</strong></p>
   
-  <a href="https://ai-career-coach-seven-inky.vercel.app/">
+  <a href="https://aspire-ai-smart-career-coach-a3klmoutb.vercel.app/">
     <img src="https://img.shields.io/badge/Try%20ASPIRE AI%20Now-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Try ASPIRE AI"/>
   </a>
   
   <br><br>
   
-  <p><em>Made with ❤️ and lots of ☕ by Sameeksha</em></p>
-  <p><strong>© 2025 ASPIRE AI - AI Career Coach. All rights reserved.</strong></p>
+  <p><em>Made with ❤️ and lots of ☕ Amit Thakur</em></p>
+  <p><strong>© 2026 ASPIRE AI - AI Career Coach. All rights reserved.</strong></p>
 </div>
